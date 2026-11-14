@@ -1,0 +1,6 @@
+{
+  "name": "Nova AI",
+  "description": "Asisten AI futuristik berbahasa Indonesia & Inggris dengan bola partikel interaktif, Dynamic Island mengambang, perintah suara Hi Nova permanen, dan model open-source Hermes & Llama.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
